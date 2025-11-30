@@ -6,32 +6,6 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 local rmd = game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Sync")
 
 
--- NameRoll
-local NameRoles = {
-    "Kamado",
-    "Himejima",
-    "Rengoku",
-    "Tokito",
-    "Tomioka",
-    "Agatsuma",
-    "Haganezuka",
-    "Hashibira",
-    "Iguro",
-    "Kanroji",
-    "Kocho",
-    "Ubuyashiki",
-    "Kanzaki",
-    "Uzui",
-    "Nakahara",
-    "Kanamori",
-    "Tsuyuri",
-    "Urokodaki",
-    "Kuwajima",
-    "Takada",
-    "Terauchi"
-}
-
-
 
 
 local Players = game:GetService("Players")
